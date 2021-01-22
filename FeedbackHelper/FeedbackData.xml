@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FeedbackData>
+  <Items>
+   <Item Type="Constructive" Title="No abstract">You were required to include an abstract/executive summary. You did not do that. This lowered your grade.</Item> 
+   <Item Type="Constructive" Title="Bad abstract">This is not a proper abstract/executive summary. Please read how to create a proper one.</Item> 
+   <Item Type="Constructive" Title="Bad intro">Please read how to write a proper introduction. This one is not right.</Item> 
+   <Item Type="Constructive" Title="Full just">Text should be full justified.</Item> 
+   <Item Type="Constructive" Title="2x space">Text should be double spaced.</Item> 
+   <Item Type="Constructive" Title="Full double">Text should be full justified and double spaced.</Item> 
+   <Item Type="Constructive" Title="Unsup opin">Just saying it does not make it true. You need evidence to support points like this.</Item> 
+   <Item Type="Constructive" Title="Paragraph">This paragraph is too long. Please read how to write a proper paragraph.</Item> 
+   <Item Type="Constructive" Title="Impr English">You need to continue improving your English. Several parts of your writing are difficult to understand.</Item> 
+   <Item Type="Constructive" Title="Cite teacher">Citing your lecturer is lazy. You should do the research and find a good academic source.</Item> 
+   <Item Type="Constructive" Title="Cite image">Images must be cited (unless you created them) or it is plagiarism.</Item> 
+   <Item Type="Constructive" Title="Cite 2 places">If you have a citation in the body of your work, it must also be on your references page. If you have a reference on your references page it should be cited in your text.</Item> 
+   <Item Type="Constructive" Title="Cite websites">You should not cite websites. They are not considered good quality sources.</Item> 
+   <Item Type="Constructive" Title="Cite anon">If you do not know who wrote it, then do not cite it.</Item> 
+   <Item Type="Constructive" Title="Orig source">You should read the original source and cite that.</Item> 
+   <Item Type="Constructive" Title="Irrelevant">Ignore irrelevant information like this. Focus only on what matters.</Item> 
+   <Item Type="Constructive" Title="Book pg#">Citing books should include page numbers.</Item> 
+   <Item Type="Constructive" Title="Cite wrong">This is the wrong citation format.</Item> 
+   <Item Type="Constructive" Title="Bullets">List of items are usually better shown as bullet points.</Item> 
+   <Item Type="Constructive" Title="Tables">A table might be a better way to display this information.</Item> 
+   <Item Type="Constructive" Title="Numbers">This is not how numbers should be written in English.</Item> 
+   <Item Type="Constructive" Title="Add charts">Using charts to show numbers makes it much easier for the reader.</Item> 
+   <Item Type="Constructive" Title="Specific">This is quite general. Try to be more detailed and more specific.</Item> 
+   <Item Type="Constructive" Title="Read widely">You are expected to read many different sources and combine all the knowledge. Reading too few sources gives you a very limited perspective.</Item> 
+   <Item Type="Constructive" Title="Eval criteria">Any time you are evaluating something, you should have proper evaluation criteria.</Item> 
+   <Item Type="Constructive" Title="Spelling">Spelling errors like this show that you do not care about the quality of your work.</Item> 
+   <Item Type="Constructive" Title="Feedback">This is a problem I have pointed out before. You should be using the feedback to improve. Otherwise, why do I include any feedback at all?</Item> 
+   <Item Type="Constructive" Title="Ref format">There are references here which are not formatted correctly.</Item> 
+   <Item Type="Constructive" Title="More detail">This is too simple. Add more detail to make sure the reader knows exactly what you mean.</Item> 
+   <Item Type="Constructive" Title="Add example">Adding an example could make this much easier to understand.</Item> 
+   <Item Type="Constructive" Title="Add reference">This is a good place to add a reference to something you read on this topic.</Item> 
+   <Item Type="Constructive" Title="Quantify">Try to quantify something with some numbers. If you do not have access to the real data, try to estimate based on what you do know.</Item> 
+   <Item Type="Constructive" Title="Blank"></Item> 
+   <Item Type="Positive" Title="Formatting">Your text is formatted well here.</Item> 
+   <Item Type="Positive" Title="Good intro">This is a good introduction.</Item> 
+   <Item Type="Positive" Title="Good citation">This is a good citation format.</Item> 
+   <Item Type="Positive" Title="Good point">This is a good point.</Item> 
+   <Item Type="Positive" Title="V.Good point">Very good point here.</Item> 
+   <Item Type="Positive" Title="Creative pt">This is a very creative point.</Item> 
+  </Items>
+</FeedbackData>
